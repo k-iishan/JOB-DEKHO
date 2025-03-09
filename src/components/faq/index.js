@@ -17,9 +17,9 @@ function Faq(){
     </AccordionContent>
 
   </AccordionItem> <AccordionItem value="item-2">
-    <AccordionTrigger>Is it accessible?</AccordionTrigger>
+    <AccordionTrigger>RESPONSE TIME OF RESPONSE </AccordionTrigger>
     <AccordionContent>
-      Yes. It adheres to the WAI-ARIA design pattern.
+      USUALLY WITHIN 1-2 DAYS .
     </AccordionContent>
   </AccordionItem>
    <AccordionItem value="item-3">
