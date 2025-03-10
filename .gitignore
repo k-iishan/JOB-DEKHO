@@ -1,2 +1,3 @@
- git config --global user.email "kk1085035@gmail.com"
-  git config --global user.name "kishan"
+.next
+node_modules
+.env

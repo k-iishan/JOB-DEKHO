@@ -13,7 +13,7 @@ export default function About() {
       name: "KISHAN KUMAR",
       position: "Founder & CEO",
       bio: "With over 3 years of experience in HR tech, KISHAN founded JOB-देखो with a vision to transform the job search experience in India.",
-      image: "/founder.jpge"
+      image: "/founder.jpg"
     },
     {
       name: "ABHISHEK KUMAR",
@@ -25,9 +25,9 @@ export default function About() {
 
   const teamMembers = [
     {
-      name: "Amit Kumar",
+      name: "HARSH SINHA",
       position: "Head of Operations",
-      image: "/team1.jpg"
+      image: "/head.jpg"
     },
     {
       name: "Neha Singh",
