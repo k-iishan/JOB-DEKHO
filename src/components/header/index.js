@@ -17,6 +17,11 @@ function Header({ user, profileInfo }) {
       show: true,
     },
     {
+      label: "About",
+      path: "/about",
+      show: true,
+    },
+    {
       label: "Feed",
       path: "/feed",
       show: profileInfo,
