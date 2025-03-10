@@ -1,7 +1,7 @@
 import { fetchProfileAction } from "@/actions";
 import Faq from "@/components/faq";
 import Footer from "@/components/footer";
-import AutoInfiniteCarousel from "@/components/";
+import AutoInfiniteCarousel from "@/components/top-company";
 import HomepageButtonControls from "@/components/homepage-button-controls";
 import { Button } from "@/components/ui/button";
 import { currentUser } from "@clerk/nextjs";
