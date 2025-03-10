@@ -109,8 +109,8 @@ function Header({ user, profileInfo }) {
           )}
           <Moon
             className="cursor-pointer"
-            fill={theme === "dark" ? "light" : "dark"}
-            onClick={() => setTheme(theme === "light" ? "dark" : "light")}
+            fill={theme === "light" ? "dark" : "light"}
+            onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
           />
           <UserButton afterSignOutUrl="/" />
         </nav>
