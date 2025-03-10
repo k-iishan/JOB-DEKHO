@@ -1,6 +1,7 @@
 import { fetchProfileAction } from "@/actions";
 import Faq from "@/components/faq";
 import Footer from "@/components/footer";
+import AutoInfiniteCarousel from "@/components/";
 import HomepageButtonControls from "@/components/homepage-button-controls";
 import { Button } from "@/components/ui/button";
 import { currentUser } from "@clerk/nextjs";
@@ -45,6 +46,7 @@ async function Home() {
         </div>
       </section>
     </Fragment>
+    <AutoInfiniteCarousel/>
     <Faq/>
     <Footer/>
     </>
