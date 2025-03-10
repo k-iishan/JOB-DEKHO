@@ -10,15 +10,15 @@ export default function About() {
 
   const founders = [
     {
-      name: "Rahul Sharma",
+      name: "KISHAN KUMAR",
       position: "Founder & CEO",
-      bio: "With over 10 years of experience in HR tech, Rahul founded JOB-देखो with a vision to transform the job search experience in India.",
-      image: "/founder.jpg"
+      bio: "With over 3 years of experience in HR tech, KISHAN founded JOB-देखो with a vision to transform the job search experience in India.",
+      image: "/founder.jpge"
     },
     {
-      name: "Priya Patel",
+      name: "ABHISHEK KUMAR",
       position: "Co-Founder & CTO",
-      bio: "Priya brings 8 years of technical expertise from leading tech companies and is passionate about building scalable platforms.",
+      bio: "ABHISHEK brings 3 years of technical expertise from leading tech companies and is passionate about building scalable platforms.",
       image: "/cofounder.jpg"
     }
   ];
