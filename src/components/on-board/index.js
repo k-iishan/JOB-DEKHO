@@ -83,14 +83,14 @@ function OnBoard() {
         ? {
             candidateInfo: candidateFormData,
             role: "candidate",
-            isPremiumUser: false,
+            isPremiumUser: true,
             userId: user?.id,
             email: user?.primaryEmailAddress?.emailAddress,
           }
         : {
             recruiterInfo: recruiterFormData,
             role: "recruiter",
-            isPremiumUser: false,
+            isPremiumUser: true,
             userId: user?.id,
             email: user?.primaryEmailAddress?.emailAddress,
           };

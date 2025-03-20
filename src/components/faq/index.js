@@ -13,7 +13,7 @@ function Faq(){
   <AccordionItem value="item-1">
     <AccordionTrigger>IS IT FREE TO APPLY FOR ANY JOB?</AccordionTrigger>
     <AccordionContent>
-      Yes. UPTO 2 JOB THEN YOU NEED PREMIUM SUSCRIPTION TO APPLY MORE.
+      Yes. UPTO 10 JOB THEN YOU NEED PREMIUM SUSCRIPTION TO APPLY MORE.
     </AccordionContent>
 
   </AccordionItem> <AccordionItem value="item-2">

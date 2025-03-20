@@ -51,11 +51,7 @@ function Header({ user, profileInfo }) {
       path: "/jobs",
       show: profileInfo,
     },
-    {
-      label: "Membership",
-      path: "/membership",
-      show: profileInfo,
-    },
+  
     {
       label: "Account",
       path: "/account",
